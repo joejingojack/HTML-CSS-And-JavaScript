@@ -1,1 +1,1 @@
-# Couple of Projects related to HTML, CSS and JavaScript
+# Couple of Projects related to HTML, CSS And JavaScript
